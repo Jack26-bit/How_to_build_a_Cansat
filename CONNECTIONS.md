@@ -20,9 +20,13 @@ GND	GND	All sensors GND
 
 # BMP280 Connection (Environmental Sensor)
 BMP280 Pin	Connect to Pico
+
 VCC ---	3.3V
+
 GND ---	GND
+
 SDA ---	GP0
+
 SCL ---	GP1
 
 Protocol: I2C
